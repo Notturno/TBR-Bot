@@ -59,7 +59,7 @@ TBR-Bot
       curates: 0
     };
 
-    settings.prototype.pupScriptUrl = 'http://plug.dj/team-brasil-4/';
+    settings.prototype.pupScriptUrl = 'https://github.com/Notturno/TBR-Bot/blob/master/README.md';
 
     settings.prototype.afkTime = 30 * 60 * 1000;
 
